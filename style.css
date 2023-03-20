@@ -856,7 +856,7 @@ width: 100%;
         padding-top: 20px;
         
         height:550px;
-        border: 2px solid;
+        
     }
     .box3
     {
@@ -871,24 +871,25 @@ width: 100%;
     .box4{
         width: 90%;
        
-        height: 260px;
+        height: 290px;
         
        margin: 20px auto 0px auto;
-       border: 2px solid;
+      
        
         
         
     
     }
     .box4 h2{
-        font-size: 4vw;
+        font-size: 6vw;
         margin-bottom: 20px;
       
     }
     .box4 p{
-        line-height: 14px;
-       letter-spacing: 0.7px;
-        font-size:3vw;
+        line-height: 15px;
+       letter-spacing: 0.5px;
+       word-spacing: 1.4px;
+        font-size:3.5vw;
        
     }
 
