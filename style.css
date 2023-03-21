@@ -56,6 +56,7 @@ ul{
     display: flex;
 
 
+
 }
 ul li{
     padding: 10px 20px;
@@ -63,7 +64,7 @@ ul li{
     margin: 20px 18px 18px 18px;
     list-style-type: none;
     transition: 0.15s;
-    box-sizing: border-box;
+    
     
     
     
